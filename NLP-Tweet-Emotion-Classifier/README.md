@@ -65,10 +65,6 @@ The dataset was split into training and testing sets to evaluate the model's abi
 
 **Model Evaluation**
 
-<p align="center">
-  <img src="emotion-results.png" width="700">
-</p>
-
 ![Emotion Classification Results](image.png)
 
 The performance of the model was evaluated using several classification metrics including:
