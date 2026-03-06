@@ -65,7 +65,7 @@ The dataset was split into training and testing sets to evaluate the model's abi
 
 **Model Evaluation**
 
-![Emotion Classification Results](image.png)
+![Emotion Classification Results](NLPimage.png)
 
 The performance of the model was evaluated using several classification metrics including:
 Precision
