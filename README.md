@@ -43,7 +43,7 @@ This Tableau dashboard focuses on analyzing customer loan data to identify repay
 <h3>Tableau – Bank Loan Customer Analysis</h3>
 
 <a href="Tableau-Loan-Customer-Dashboard">
-  <img src="Tableau-Loan-Customer-Dashboard/tableau-dashboard.png" width="800">
+  <img src="Tableau-Loan-Customer-Dashboard/tableau-dashboard.png" width="900">
 </a>
 
 🔗 Project Folder  
