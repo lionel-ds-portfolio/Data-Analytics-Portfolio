@@ -21,7 +21,7 @@ This dashboard analyzes bank loan data to understand loan distribution, repaymen
 
 Dashboard Preview
 
-![Power BI Dashboard](PowerBI-Bank-Loan-Dashboard/image.png)
+[![Power BI Bank Loan Dashboard](PowerBI-Bank-Loan-Dashboard/Powerbi.png)](PowerBI-Bank-Loan-Dashboard)
 
 🔗 Project Folder  
 PowerBI-Bank-Loan-Dashboard
