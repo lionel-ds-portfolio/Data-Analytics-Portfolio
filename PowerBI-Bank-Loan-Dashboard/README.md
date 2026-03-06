@@ -1,6 +1,6 @@
 **Bank Loan Analysis Dashboard – Power BI**
 
-![Bank Loan Dashboard](image.png)
+![Bank Loan Dashboard](Powerbi.png)
 
 **Project Overview**
 This project presents an interactive Power BI dashboard focused on analyzing bank loan data of customers to understand loan performance, repayment behavior, and risk patterns. The dashboard was developed to convert raw financial data into meaningful visual insights that can help in monitoring loan distribution, repayment status, and customer segments.
