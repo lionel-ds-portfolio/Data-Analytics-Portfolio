@@ -40,7 +40,7 @@ This Tableau dashboard focuses on analyzing customer loan data to identify repay
 
 **Dashboard Preview**
 
-![Tableau Dashboard](tableau-dashboard.png)
+![Tableau Dashboard](images/tableau-dashboard.png)
 
 🔗 Project Folder  
 Tableau-Loan-Customer-Dashboard
