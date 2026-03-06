@@ -1,25 +1,25 @@
 # Data Analytics Portfolio
 
 Welcome to my Data Analytics portfolio.  
-This repository contains projects developed using Power BI, Tableau, SQL, and Python.
+This repository contains projects developed using Power BI, Tableau, and NLP.
 
 Each project focuses on analyzing real datasets and generating meaningful insights through data visualization and analytics.
 
 ---
 
-# Projects
+**Projects**
 
-## Power BI – Bank Loan Analysis Dashboard
+**Power BI – Bank Loan Analysis Dashboard**
 
 This dashboard analyzes bank loan data to understand loan distribution, repayment status, and customer risk patterns.
 
-📊 Key Insights:
+**Key Insights:**
 - Year-wise loan amount trends
 - Loan status distribution (Fully Paid, Current, Charged Off)
 - Customer verification analysis
 - Loan grade and sub-grade risk segmentation
 
-📷 Dashboard Preview
+Dashboard Preview
 
 ![Power BI Dashboard](PowerBI-Bank-Loan-Dashboard/image.png)
 
@@ -32,15 +32,15 @@ PowerBI-Bank-Loan-Dashboard
 
 This Tableau dashboard focuses on analyzing customer loan data to identify repayment patterns and customer segments.
 
-📊 Key Insights:
+**Key Insights:**
 - Loan amount trends across years
 - Payment distribution for verified vs non-verified customers
 - Home ownership vs last payment patterns
 - Loan grade risk analysis
 
-📷 Dashboard Preview
+**Dashboard Preview**
 
-![Tableau Dashboard](Tableau-Loan-Customer-Dashboard/tableau-dashboard.png)
+![Tableau Dashboard](Tableau.png)
 
 🔗 Project Folder  
 Tableau-Loan-Customer-Dashboard
@@ -53,14 +53,14 @@ This project applies Natural Language Processing techniques to classify tweets i
 
 The model was trained on a labeled tweet dataset and evaluated using classification metrics such as precision, recall, and F1-score.
 
-📊 Key Techniques:
+**Key Techniques:**
 - Text preprocessing
 - Tokenization
 - Stopword removal
 - TF-IDF feature extraction
 - Machine learning classification
 
-📷 Model Evaluation
+Model Evaluation
 
 ![NLP Results](NLP-Tweet-Emotion-Classifier/emotion-results.png)
 
