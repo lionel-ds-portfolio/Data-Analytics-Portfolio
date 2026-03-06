@@ -2,7 +2,7 @@
 
 **Dashboard Preview**
 
-![Tableau Dashboard](tableau-dashboard.png)
+![Tableau Dashboard](image.png)
 
 **Project Overview**
 
