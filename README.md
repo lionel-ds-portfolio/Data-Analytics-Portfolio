@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-Welcome to my Data Analytics portfolio.  
+Hello My Name is Lionel. Welcome to my Data Analytics portfolio.  
 This repository contains projects developed using Power BI, Tableau, and NLP.
 
 Each project focuses on analyzing real datasets and generating meaningful insights through data visualization and analytics.
