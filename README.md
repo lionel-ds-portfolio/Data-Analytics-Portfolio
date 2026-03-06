@@ -62,7 +62,7 @@ The model was trained on a labeled tweet dataset and evaluated using classificat
 
 Model Evaluation
 
-![NLP Results](NLP-Tweet-Emotion-Classifier/emotion-results.png)
+[![NLP Tweet Emotion Classifier](NLP-Tweet-Emotion-Classifier/NLPimage.png)](NLP-Tweet-Emotion-Classifier)
 
 🔗 Project Folder  
 NLP-Tweet-Emotion-Classifier
