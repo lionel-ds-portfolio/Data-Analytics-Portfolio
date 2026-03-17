@@ -7,6 +7,18 @@ Each project focuses on analyzing real datasets and generating meaningful insigh
 
 ---
 
+## SQL – Advanced Loan Data Analysis
+
+Includes:
+
+- Aggregations and Grouping  
+- Window Functions  
+- Ranking and Segmentation  
+- Time-based Analysis  
+
+🔗 Project Folder  
+SQL-Bank-Loan-Analysis
+
 **Projects**
 
 **Power BI – Bank Loan Analysis Dashboard**
