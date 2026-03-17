@@ -5,7 +5,7 @@ This repository contains projects developed using SQL, Power BI, Tableau, and NL
 
 Each project focuses on analyzing real datasets and generating meaningful insights through data visualization and analytics.
 
----
+**Projects**
 
 ## SQL – Advanced Loan Data Analysis
 
@@ -18,8 +18,6 @@ Includes:
 
 🔗 Project Folder  
 SQL-Bank-Loan-Analysis
-
-**Projects**
 
 **Power BI – Bank Loan Analysis Dashboard**
 
