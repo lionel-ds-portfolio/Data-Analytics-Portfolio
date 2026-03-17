@@ -7,7 +7,7 @@ Each project focuses on analyzing real datasets and generating meaningful insigh
 
 **Projects**
 
-## SQL – Advanced Loan Data Analysis
+**SQL – Advanced Loan Data Analysis**
 
 Includes:
 
